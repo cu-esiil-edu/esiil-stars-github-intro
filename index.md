@@ -10,7 +10,7 @@
 For this next assignment, you're going to **fork** an existing GitHub repository (repo), make changes to your forked repo, and create a 
 **Pull Request** to add your changes to the original repo. Forking is one approach that allows you to contribute to a project by making changes to a **local version** of a file, and then sharing those suggested changes with whoever maintains the project you're working on.
 
-Here you will be adding your profile information (Name, photo, email, website) to the course syllabus. To do this you will need to complete the following:
+Here you will be adding your profile information (**name, photo, email, website**) to the course syllabus. To do this you will need to complete the following:
 
 ***
 
@@ -29,8 +29,8 @@ Here you will be adding your profile information (Name, photo, email, website) t
 * Open the `index.md` file
 * Find the section for your school
   * Add your name (as a _**header**_), professional headshot, links to your email, and website
-  * Use the same formatting from the **Meet our Team** section above
-  * Don't forget to **Commit changes**!
+  * Use the same formatting from the **Meet Our Team** section above
+  * Don't forget to **Commit changes**
 
 ***
 
