@@ -12,6 +12,8 @@ For this next assignment, you're going to **fork** an existing GitHub repository
 
 Here you will be adding your profile information (Name, photo, email, website) to the course syllabus. To do this you will need to complete the following:
 
+***
+
 ## Step 0: Fork the course syllabus repo
 #### Get started by forking the course syllabus repository to your GitHub account 
 * Navigate to the course syllabus repo: <a href="https://github.com/cu-esiil-edu/esiil-stars-syllabus-2023" target="_blank">**https://github.com/cu-esiil-edu/esiil-stars-syllabus-2023**</a>
