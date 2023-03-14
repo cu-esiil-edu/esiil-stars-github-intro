@@ -21,3 +21,16 @@ Here you will be adding your profile information (Name, photo, email, website) t
   * Select the green **`Create fork`** button at the bottom of the page
 
 
+## Step 1: Edit the `index.md` file 
+#### In your forked repository 
+* Open the `index.md` file
+* Find the section for your school
+  * Add your name (as a header), professional headshot, links to your email, and website
+  * Use the same formatting from the **Meet our Team** section above
+
+
+## Step 2: Add your changes using a Pull Request
+* Submit a Pull Request to the original repository
+* Include a description of the changes you're making
+
+
