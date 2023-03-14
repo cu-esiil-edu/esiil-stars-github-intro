@@ -15,7 +15,7 @@ Here you will be adding your profile information (**name, photo, email, website*
 ***
 Have you ever found yourself in a situation where you're struggling to figure out which version of a file you're working on? Maybe this was an issue you ran into when working your a thesis or end-of-semster project? This can become particularly complicated when you're collaborating on a project with other team members. Who's version is the most up-to-date? Did my revisions get accepeted? 
 
-<img style="float: center;" img src="http://www.phdcomics.com/comics/archive/phd101212s.gif">
+<img style="float: right;" img src="http://www.phdcomics.com/comics/archive/phd101212s.gif">
 
 ***
 
