@@ -20,6 +20,7 @@ Here you will be adding your profile information (Name, photo, email, website) t
   * Select **`+ Create a new fork`**
   * Select the green **`Create fork`** button at the bottom of the page
 
+***
 
 ## Step 1: Edit the `index.md` file 
 #### In your forked repository 
@@ -29,6 +30,7 @@ Here you will be adding your profile information (Name, photo, email, website) t
   * Use the same formatting from the **Meet our Team** section above
   * Don't forget to **Commit changes**!
 
+***
 
 ## Step 2: Add your changes using a Pull Request
 * Select the **Pull requests** tab from the menu at the top of the page
