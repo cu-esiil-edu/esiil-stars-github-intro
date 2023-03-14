@@ -39,6 +39,9 @@ Here you will be adding your profile information (**name, photo, email, website*
 
 ## Step 2: Add your changes using a Pull Request
 * Select the **Pull requests** tab from the menu at the top of the page
+
+<img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-github-intro/main/pull-req.png">
+
 * Select the green **`New pull request`** button
 * Select the green **`Create pull request`** button
 * Include a description of the changes you're making and select the green **`Create pull request`** button one more time
