@@ -19,6 +19,9 @@ Here you will be adding your profile information (**name, photo, email, website*
 * Navigate to the course syllabus repo: <a href="https://github.com/cu-esiil-edu/esiil-stars-syllabus-2023" target="_blank">**https://github.com/cu-esiil-edu/esiil-stars-syllabus-2023**</a>
 * **Fork** this repository to your your GitHub account
   * Select the drop down arrow from the **Fork** tab in the upper right menu
+  
+<img src="https://raw.githubusercontent.com/cu-esiil-edu/esiil-stars-github-intro/main/fork.png">
+
   * Select **`+ Create a new fork`**
   * Select the green **`Create fork`** button at the bottom of the page
 
