@@ -7,6 +7,8 @@ Have you ever found yourself in a situation where you're struggling to figure ou
 <img style="float: right;" img src="http://www.phdcomics.com/comics/archive/phd101212s.gif">
 <a href="https://phdcomics.com/comics/archive_print.php?comicid=1531" target="_blank">https://phdcomics.com/comics/archive_print.php?comicid=1531</a>
 
+One solution to help manage issues like these is through the use of a version control tool like GitHub. 
+
 ***
 
 #### In this assignment you will: 
